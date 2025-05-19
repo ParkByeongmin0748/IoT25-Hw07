@@ -48,19 +48,18 @@ ESPAsyncWebServer (optional, if web-based display is implemented)
 
 
 
-✅ Output Example
-
-RSSI: -70 dBm → Estimated Distance: 1.58 m
-RSSI: -64 dBm → Estimated Distance: 0.89 m ➜ LED Blinking
 
 📸 Experiment Results
 
 Distance tested at: 0.5m, 1m, 2m, 3m, 4m
 
+Tested Distance:     0.5m      1m         2m        3m          4m
+Estimated Distance: 0.38m     1.26m     2.05m      4.02m       12.08m
+
 Table comparing actual vs estimated distances
 
 Bar graph showing error margins
 
-
+[Demo Video](https://youtube.com/shorts/vGLAmtT098I?si=T0mrIhmAXWrszsvl)
 
 
